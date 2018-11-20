@@ -1,2 +1,1 @@
-# dojo-design
-Design resources for epfl-dojo (logo, flyers, poster, etc.)
+This repo has been archived, please head to https://gitlab.com/epfl-dojo/dojo-design #movedtogitlab
